@@ -4,4 +4,4 @@
 
 ## Current Stuff: 
 
-- My Useful Shortcuts guide
+- My Useful Shortcuts guide (Windows 10)

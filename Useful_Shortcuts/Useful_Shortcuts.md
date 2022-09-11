@@ -2,6 +2,9 @@
 
 **Windows:**
 
+- Copy = Ctrl+C
+- Paste = Ctrl+V
+- Paste as Plain Text  = Ctrl+Shift+V
 - Undo = Ctrl+Z
 - Redo = Ctrl+Y
 - Create new folder = Ctrl+Shift+N
@@ -64,3 +67,19 @@
 - Reload Page = Ctrl+R
 - Bookmark = Ctrl+D
 - Return Default Size = Ctrl+0
+
+**Visual Studio Code**
+
+- New Text File = Ctrl+N
+- New File = Ctrl+Alt+Win+N
+- Open File = Ctrl+O
+- Open Folder = Ctrl+K then Ctrl+O
+- Save = Ctrl+S
+- Save As = Ctrl+Shift+S
+- Close Folder = Ctrl+K then F
+- Close Window = Alt+F4
+- Find = Ctrl+F
+- Replace = Ctrl+H
+- Find in Files = Ctrl+Shift+F
+- Replace in Files = Ctrl+Shift+H
+- Comment line = Ctrl+/

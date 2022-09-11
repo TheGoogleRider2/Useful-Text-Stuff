@@ -1,18 +1,23 @@
+# Useful Shortcuts #
+
 Windows:
-- Undo = Ctrl+Z 
+- Copy = Ctrl+C
+- Paste = Ctrl+V
+- Paste as Plain Text  = Ctrl+Shift+V
+- Undo = Ctrl+Z
 - Redo = Ctrl+Y
-- Create new folder = Ctrl+Shift+N 
+- Create new folder = Ctrl+Shift+N
 - Delete = Ctrl+D
-- Close active window = Ctrl+Shift+N 
+- Close active window = Ctrl+Shift+N
 - Switch Apps = Alt+Tab
 - Open Settings = Win+I
 - Open Task Manager = Ctrl+Shift+Esc
-- Open File Explorer = Win+A 
+- Open File Explorer = Win+A
 - Hide desktop = Win+D
-- Lock Device = Win+L   
+- Lock Device = Win+L
 - Clipboard = Win+V
 - Emoji Panel = Win+'.'
-- Snip & Sketch = Win+Shift+S 
+- Snip & Sketch = Win+Shift+S
 - Project Settings = Win+P
 
 PowerToys:
@@ -22,13 +27,13 @@ PowerToys:
 - Preview Pane = Alt+P in File Explorer
 - Find My Mouse = Ctrl x2
 - PowerToys Run = Alt+Space
--  Quick Accent = While pressing a Key Hold Space
+- Quick Accent = While pressing a Key Hold Space
 - Shortcut Guide = Win+Shift+/
 - Text Extractor = Win+Shift+T
 - Video Conference Mute:
-   - Mute Cam&Mic = Win+N
-   - Mute Mic = Win+Shift+I
-   - Mute Cam = Win+Shift+O
+  - Mute Cam&Mic = Win+N
+  - Mute Mic = Win+Shift+I
+  - Mute Cam = Win+Shift+O
 
 ShareX:
 - Capture Screen = Ctrl+Alt+Up
@@ -58,3 +63,18 @@ Chrome:
 - Reload Page = Ctrl+R
 - Bookmark = Ctrl+D
 - Return Default Size = Ctrl+0
+
+Visual Studio Code:
+- New Text File = Ctrl+N
+- New File = Ctrl+Alt+Win+N
+- Open File = Ctrl+O
+- Open Folder = Ctrl+K then Ctrl+O
+- Save = Ctrl+S
+- Save As = Ctrl+Shift+S 
+- Close Folder = Ctrl+K then F
+- Close Window = Alt+F4
+- Find = Ctrl+F
+- Replace = Ctrl+H
+- Find in Files = Ctrl+Shift+F 
+- Replace in Files = Ctrl+Shift+H 
+- Comment line = Ctrl+/
