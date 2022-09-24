@@ -28,10 +28,26 @@
 - FancyZones = Win+Shift+Z (Editor) & Shift + Moving a window
 - Preview Pane = Alt+P in File Explorer
 - Find My Mouse = Ctrl x2
-- PowerToys Run = Alt+Space
 - Quick Accent = While pressing a Key Hold Space
 - Shortcut Guide = Win+Shift+/
 - Text Extractor = Win+Shift+T
+- PowerToys Run = Alt+Space:
+  Direct activation command
+  - Calculator = '='
+  - History = '!!'
+  - Windows File Search = '?'
+  - OneNote = o:
+  - Search Programs = '.'
+  - Navigates Registry = ':'
+  - Manage Services = '!'
+  - Executes commands = '>'
+  - Time zones = '&'
+  - Unit Converter = '%%'
+  - URL Handler = '//'
+  - VSCode Workspaces = '{'
+  - Web Search = '??'
+  - Windows Terminal = '_'
+  - Window Walker = '<'
 - Video Conference Mute:
   - Mute Cam&Mic = Win+N
   - Mute Mic = Win+Shift+I
@@ -83,3 +99,24 @@
 - Find in Files = Ctrl+Shift+F
 - Replace in Files = Ctrl+Shift+H
 - Comment line = Ctrl+/
+
+**GitHub Desktop**
+
+- New repository = Ctrl+N
+- Add local repository = Ctrl+O
+- Clone repository = Ctrl+Shift+O
+- View Changes = Ctrl+1
+- View History = Ctrl+2
+- View repository = Ctrl+T
+- View Branches = Ctrl+B
+- Go to Summery = Ctrl+G
+- Push = Ctrl+P
+- Pull = Ctrl+Shift+P
+- Remove = Ctrl+Backspace
+- View on GitHub = Ctrl+Shift+G
+- Open in CommandLine = Ctrl+'
+- Show in Windows File Explorer = Ctrl+Shift+F
+- Open in External Editor =  Ctrl+Shift+A
+- Create Issue = Ctrl+I
+- Options = Ctrl+,
+- Exit = Alt+F4
